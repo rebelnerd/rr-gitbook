@@ -1,6 +1,6 @@
 # Rapid Resizer Plugin System
 
-## This content I added in manually ##
+## This content I added in manually
 
 Welcome to the Rapid Resizer Plugin System! Here you'll find all the documentation you need to develop your first plugin for the Rapid Resizer platform.
 
@@ -16,8 +16,4 @@ Feeling like an eager beaver? Jump in to the quick start docs and get making you
 
 Dive a little deeper and start exploring our plugin reference to get an idea of everything that's possible within our plugin system:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-- [Plugin API](./docs/api/)
+* [Plugin API](docs/api/)
