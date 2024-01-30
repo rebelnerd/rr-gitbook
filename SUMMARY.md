@@ -8,4 +8,4 @@
 * [Debugging](debugging.md)
 * [CORS Issues](cors-issues.md)
 * [PluginComponent](plugincomponent.md)
-* [Page 1](page-1.md)
+* [Plugin API](./docs/api/README.md)
