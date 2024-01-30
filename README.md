@@ -19,3 +19,5 @@ Dive a little deeper and start exploring our plugin reference to get an idea of 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
+
+- [Plugin API](./docs/api/index.html)
