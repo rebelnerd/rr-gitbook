@@ -1,5 +1,7 @@
 # Rapid Resizer Plugin System
 
+## This content I added in manually ##
+
 Welcome to the Rapid Resizer Plugin System! Here you'll find all the documentation you need to develop your first plugin for the Rapid Resizer platform.
 
 ## Want to jump right in?
