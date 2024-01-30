@@ -20,4 +20,4 @@ Dive a little deeper and start exploring our plugin reference to get an idea of 
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-- [Plugin API](./docs/api/index.html)
+- [Plugin API](./docs/api/readme)
