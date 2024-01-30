@@ -1,6 +1,6 @@
-# PluginComponent
+# Plugin Component
 
-@roberts-studios/harness / Exports / PluginComponent
+[@roberts-studios/harness](../docs/api/) / [Exports](../docs/api/modules.md) / PluginComponent
 
 ## Class: PluginComponent
 
@@ -14,42 +14,42 @@
 
 #### Constructors
 
-* constructor
+* [constructor](plugincomponent.md#constructor)
 
 #### Properties
 
-* \_originalBlob
-* img
-* metadata
-* shadow
+* [\_originalBlob](plugincomponent.md#\_originalblob)
+* [img](plugincomponent.md#img)
+* [metadata](plugincomponent.md#metadata)
+* [shadow](plugincomponent.md#shadow)
 
 #### Accessors
 
-* originalBlob
-* observedAttributes
+* [originalBlob](plugincomponent.md#originalblob)
+* [observedAttributes](plugincomponent.md#observedattributes)
 
 #### Methods
 
-* attributedChangedCallback
-* cancel
-* complete
-* connectedCallback
-* disconnectedCallback
-* initialize
-* loadComponent
-* setup
-* test
-* toBlob
+* [attributedChangedCallback](plugincomponent.md#attributedchangedcallback)
+* [cancel](plugincomponent.md#cancel)
+* [complete](plugincomponent.md#complete)
+* [connectedCallback](plugincomponent.md#connectedcallback)
+* [disconnectedCallback](plugincomponent.md#disconnectedcallback)
+* [initialize](plugincomponent.md#initialize)
+* [loadComponent](plugincomponent.md#loadcomponent)
+* [setup](plugincomponent.md#setup)
+* [test](plugincomponent.md#test)
+* [toBlob](plugincomponent.md#toblob)
 
 ### Constructors
 
 #### constructor
 
-• **new PluginComponent**(): `PluginComponent`
+• **new PluginComponent**(): [`PluginComponent`](plugincomponent.md)
 
 **Returns**
 
-`PluginComponent`
+[`PluginComponent`](plugincomponent.md)
 
 **Overrides**
 

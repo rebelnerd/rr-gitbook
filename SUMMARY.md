@@ -7,5 +7,7 @@
 * [Standards](standards.md)
 * [Debugging](debugging.md)
 * [CORS Issues](cors-issues.md)
-* [PluginComponent](plugincomponent.md)
-* [Plugin API](./docs/api/classes/PluginComponent.md)
+
+## API
+
+* [Plugin Component](api/plugincomponent.md)
